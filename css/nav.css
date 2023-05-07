@@ -1,0 +1,14 @@
+@import url(styleroot.css);
+
+.navbar {
+    background-color: var(--fondo-form);
+    height: 35px;
+    display: flex;
+    place-items: center;
+}
+.title {
+    margin-left: 570%;
+}
+.user {
+    float: right;
+}
